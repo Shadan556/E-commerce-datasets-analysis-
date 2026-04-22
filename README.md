@@ -1,5 +1,8 @@
 Amazon E-commerce Data Analysis 
- In this project, I have taken Amazon e-commerce datasets from Kaggle for analysis. The dataset         includes multiple files such as:
+
+
+In this project, I have taken Amazon e-commerce datasets from Kaggle for analysis. The datasets
+includes multiple files such as:
 
  .Amazon Sales Report
  .Cloud Warehouse Comparison Chart
@@ -9,12 +12,11 @@ Amazon E-commerce Data Analysis
  .P&L March 2021
  .Sales Report 2021
 
-- Objective
+-Objective
 
-The main objective of this project is to analyze e-commerce sales data and understand business performance using Python.
+1.The main objective of this project is to analyze e-commerce sales data and understand business performance using Python.
 
 -Tools & Technologies Used
-
 1.Python
 2.pandas
 3.numpy
@@ -22,7 +24,7 @@ The main objective of this project is to analyze e-commerce sales data and under
 5.seaborn
 6.Jupyter Notebook
 
-- Steps Performed
+-Steps Performed
 1.Loaded and explored the datasets
 2.Cleaned the data by handling missing values and duplicates
 3.Converted date columns into proper format
