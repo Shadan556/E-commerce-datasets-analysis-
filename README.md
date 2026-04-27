@@ -4,13 +4,12 @@ Amazon E-commerce Data Analysis
 In this project, I have taken Amazon e-commerce datasets from Kaggle for analysis. The datasets
 includes multiple files such as:
 
- .Amazon Sales Report
- .Cloud Warehouse Comparison Chart
- .International Sales Report
- .Expense IIGF
- .May 2022 Data
- .P&L March 2021
- .Sales Report 2021
+.Amazon Sales Report
+.Cloud Warehouse Comparison Chart
+.International Sales Report
+.Expense IIGF
+.May 2022 Data
+.Sales Report 2021
 
 -Objective
 
